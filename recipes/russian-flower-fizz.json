@@ -1,0 +1,75 @@
+{
+  "alias": "russian-flower-fizz",
+  "product_name": "Wheat Polugar",
+  "product_alias": "wheat",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_Wheat_large.png",
+    "thumb2x": "/static/images/bottles/700_Wheat_large@2x.png"
+  },
+  "product_collection": "Connoisseur",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Russian Flower Fizz",
+  "images": [
+    {
+      "img": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-1.jpg",
+      "img2x": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-1.jpg",
+      "thumb": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-1.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-2.jpg",
+      "img2x": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-2.jpg",
+      "thumb": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-2.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-3.jpg",
+      "img2x": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-3.jpg",
+      "thumb": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-3.jpg"
+    }
+  ],
+  "info": {
+    "method": "shake fizz",
+    "served": "serve in highball with ice cube",
+    "glass": "highball",
+    "decorate": "",
+    "garnish": "dried chamomile, lemon peel, mint leaves, powdered sugar",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "45 ml",
+      "ingredient": "Wheat Polugar"
+    },
+    {
+      "unit_volume": "20 ml",
+      "ingredient": "lemon juice"
+    },
+    {
+      "unit_volume": "10 ml",
+      "ingredient": "grapefruit juice"
+    },
+    {
+      "unit_volume": "20 ml",
+      "ingredient": "chamomile syrup"
+    },
+    {
+      "unit_volume": "5 ml",
+      "ingredient": "elderberry liqueur"
+    },
+    {
+      "unit_volume": "2 dash",
+      "ingredient": "bergamot bitter"
+    },
+    {
+      "unit_volume": "15 ml",
+      "ingredient": "egg white"
+    }
+  ],
+  "description": "",
+  "author": {
+    "name": "Leonardo Leuchi",
+    "bio": "",
+    "location": "Jerry Tomas Speakeasy, Rome, Italy",
+    "location_url": "https://www.thejerrythomasproject.it/en/"
+  }
+}

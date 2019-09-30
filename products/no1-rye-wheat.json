@@ -1,0 +1,26 @@
+{
+    "alias": "no1-rye-wheat",
+    "name": "No.1 Rye & Wheat",
+    "collection": "Mixology",
+    "collection_alias": "mixology-gastronomy",
+    "img": "/static/images/bottles/700_No1_Rye_Wheat.png",
+    "img2x": "/static/images/bottles/700_No1_Rye_Wheat@2x.png",
+    "img_large": "/static/images/bottles/700_No1_Rye_Wheat_large.png",
+    "img_large2x": "/static/images/bottles/700_No1_Rye_Wheat_large@2x.png",
+    "intro": "The taste of Rodionov’s Polugar is unlike any alcoholic beverage currently produced.",
+    "description": {
+      "Appearance": "Clear, oily body, on swirling it leaves a medium to heavy coating on the glass with lots of droplets forming as the liquid retreats.",
+      "First impression": "Heavy bready, grainy smells, wheat and rye sweet/sour black pepper notes.",
+      "Taste": "Lovely, oily entry with a heavy, almost viscous body and a taste that reminds you of a heavy Russian rye, with a wheat aftertaste. Absolutely deadly smooth stuff.",
+      "Drinks": "Lovely for use in any vodka cocktail, imparting far more favour and body in somehow subtle but substantial ways to any cocktail. Where it really shines however is with food, both as a compliment and as a plate cleanser/rest between courses this spirits is capable of acting as both a enhancer and carrier of tastes and also as a rest between a corset settle and wash clean the palate.",
+      "Cigars": "Nice dark, oily, cigars stand up and pair well with this spirit in a way a regular column distilled vodka could only aspire to with it’s far too light body and taste. Consider a Hemingway series Maduro, Opus X, or God of Fire, or a decent Cuban if one can be found.",
+      "Other": "Be careful, this is so smooth and easy to drink. Comparing Grey Goose (aka Avian Fashion Victim Vodka) to this is like comparing a jug of California red wine to a Bordeaux.",
+      "Final thoughts": "A lovely, classic and proper version of what a real vodka (Bread Wine) is about."
+    },
+    "reviewer": {
+      "name": "Christopher Carlsson",
+      "photo": "/static/images/product/christopher_carlsson.jpg",
+      "link": "http://spiritreview.com"
+    }
+  }
+  

@@ -1,0 +1,23 @@
+{
+    "alias": "cherry",
+    "name": "Cherry",
+    "collection": "Mixology",
+    "collection_alias": "mixology-gastronomy",
+    "img": "/static/images/bottles/700_Cherry.png",
+    "img2x": "/static/images/bottles/700_Cherry@2x.png",
+    "img_large": "/static/images/bottles/700_Cherry_large.png",
+    "img_large2x": "/static/images/bottles/700_Cherry_large@2x.png",
+    "intro": "The taste of Rodionov’s Polugar is unlike any alcoholic beverage currently produced.",
+    "description": {
+      "Appearance": "Clear appearance with no cloudiness inclusions. In the bottle it is dark cherry red, in the glass it is a pool of cherry or cranberry with a lovely sheen to it. The depth of colour is quite remarkable. Thin clear coat on the glass on swirling. It forms a very distinct meniscus/edgeline with teardrops forming which then retreat rapidly and form droplets on the side of the tasting glass.",
+      "First impression": "Graceful but heavy notes of sour (non sweet really and quite pleasant) cherries nicely subdued grain note from the wheat vodka serving as a pleasant backdrop to the cherry notes, there is also a nice cherry wood aromatic and oils from the pits and skins come across nicely. A delicate cross between and eau de vie, and a jenever gin in the grain like notes that so subtlety mix with the cherry.",
+      "Taste": "Lightly oily but spicy dry cherry note coating the tongue with a entry and what seems to be a signature lovely mineral like finish/fade that is slightly drying with a pleasant warmth with the addition of an aromatic dry cherry with slightly woody notes, a touch of oils from the skins and a slight bitterness from the pits in a lovely integrated last and bouquet of delicacy and restraint.",
+      "Drinks": "A natural for swapping out Luxardo or Cherry Heering in many cocktails and also could be used instead of Creme Yvette or Creme de Violette for a drier alternative, and so good on its own at room temperature. It can also be swapped in for a vermouth, giving you colour but not the sweetness of a red, and less herbal than a white. Have fun! Works well with bourbon, rye and especially Mescal to make completely different cocktails. And not to mention lovely in a bone china teacup or good quality tasting glass straight up."
+    },
+    "reviewer": {
+      "name": "Christopher Carlsson",
+      "photo": "/static/images/product/christopher_carlsson.jpg",
+      "link": "http://spiritreview.com"
+    }
+  }
+  

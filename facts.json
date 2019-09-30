@@ -1,0 +1,40 @@
+[
+  {
+    "alias": "custom",
+    "title": "Finest glass bottle",
+    "type": "fact",
+    "images": [
+      {
+        "img": "/static/images/blog/artboard.png",
+        "img2x": "/static/images/blog/artboard@2x.png"
+      }
+    ],
+    "text": "Finest glass bottle is a reconstruction of Queen Elizabeth’s personal stoffbottle dated 1745"
+  },
+  {
+    "alias": "custom",
+    "title": "Boris Rodionov",
+    "type": "fact",
+    "images": [
+      {
+        "img": "/static/images/blog/polugar-people-outline.png",
+        "img2x": "/static/images/blog/polugar-people-outline@2x.png"
+      }
+    ],
+    "text": "Boris Rodionov unearthed a recipe for Polugar in a book from the 18th century"
+  },
+  {
+    "alias": "custom",
+    "title": "The half-burned truth",
+    "type": "fact",
+    "images": [],
+    "text": "Historically the strength and the quality of an alcoholic drink would be tested by burning out two portions of the liquid until just one portion is left."
+  },
+  {
+    "alias": "custom",
+    "title": "What is\n Polugar?",
+    "type": "fact",
+    "images": [],
+    "text": "Polugar is a legendary Russian Breadwine that predates modern vodka by centuries."
+  }
+]

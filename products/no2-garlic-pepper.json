@@ -1,0 +1,24 @@
+{
+    "alias": "no2-garlic-pepper",
+    "name": "No.2 Garlic & Pepper",
+    "collection": "Mixology",
+    "collection_alias": "mixology-gastronomy",
+    "img": "/static/images/bottles/700_No2_Garlic_Pepper.png",
+    "img2x": "/static/images/bottles/700_No2_Garlic_Pepper@2x.png",
+    "img_large": "/static/images/bottles/700_No2_Garlic_Pepper_large.png",
+    "img_large2x": "/static/images/bottles/700_No2_Garlic_Pepper_large@2x.png",
+    "intro": "The taste of Rodionov’s Polugar is unlike any alcoholic beverage currently produced.",
+    "description": {
+      "Appearance": "Clear with no inclusions, sediment, etc. On swirling it leaves a light to medium coat on the glass with the swirl line retreating rapidly install legs that turn into droplets.",
+      "First impression": "Intensely garlic notes (but a Polish or Russian variety – milder than the German Hard neck) with hints of the pepper lingering below the first broadside from the garlic. The wheat and the rye round off the edges of what could be a harsher distillate if not carefully done, and add nice round bass notes to an otherwise highly aromatic bouquet.",
+      "Taste": "Wow, not what I expected, the grain and its signature oily entry pave the way and actually stand up more than you would think before yielding to first the garlic then the heat and alkali tongue curl of the pepper. While it is warming with heat it is not some incendiary pepper bomb – the delicacy is much appreciated and a rare thing. The overall impression is like eating a peppered piece of wheat rye garlic bread, with no off notes, chemical favours or rushing for ice water. Extremely well done.",
+      "Drinks": "A good alternative for a twist on a Gibson (Gin Martini with a cocktail onion instead of the usual olive or lemon twist) and those drinks people call vodka martinis. Works well in Bloody Marys and many other drinks calling for a blast spice and aromatics. While garlic is a relatively exotic favouring in a drink, think about it – it’s almost as good as butter or bacon! So let your devious mind loose and whip up some drinks no one else has ever tasted. It is also outstanding with food – particularly such as fish (smoked or unsmoked) or other Swedish and Russian cuisine.",
+      "Other": "A truly interesting and well made vodka if a bit quirky. Well worth buying and experimenting with. It could open up a whole new horizon of cocktails and food accompaniments!"
+    },
+    "reviewer": {
+      "name": "Christopher Carlsson",
+      "photo": "/static/images/product/christopher_carlsson.jpg",
+      "link": "http://spiritreview.com"
+    }
+  }
+  

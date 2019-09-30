@@ -1,0 +1,78 @@
+[
+  {
+    "alias": "boris-rodionov",
+    "img": "/static/images/contacts/boris-rodionov.jpg",
+    "thumb": "/static/images/contacts/boris-rodionov-thumb.jpg",
+    "name": "Boris Rodionov",
+    "position": "Vodka historian, master distiller",
+    "phones": [],
+    "mail": "b.rodionov@polugar.com",
+    "site": "borisrodionov.ru",
+    "facebook": "boris.rodionov"
+  },
+  {
+    "alias": "alexey-rodionov",
+    "img": "/static/images/contacts/alexey-rodionov.jpg",
+    "thumb": "/static/images/contacts/alexey-rodionov-thumb.jpg",
+    "name": "Alexey Rodionov",
+    "position": "Founder",
+    "phones": ["+34 645 010 312"],
+    "mail": "a.rodionov@polugar.com",
+    "site": "",
+    "facebook": "alexey.rodionov"
+  },
+  {
+    "alias": "ruslan-bragin",
+    "img": "/static/images/contacts/ruslan-bragin.jpg",
+    "thumb": "/static/images/contacts/ruslan-bragin-thumb.jpg",
+    "name": "Ruslan Bragin",
+    "position": "Marketing Director",
+    "phones": ["+7 909 781 92 22"],
+    "mail": "r.bragin@polugar.ru",
+    "site": "",
+    "facebook": "rouslan.bragin"
+  },
+  {
+    "alias": "artem-savkin",
+    "img": "/static/images/contacts/artem-savkin.jpg",
+    "thumb": "/static/images/contacts/artem-savkin-thumb.jpg",
+    "name": "Artem Savkin",
+    "position": "Brand Ambassador",
+    "phones": ["+7 962 263 38 87"],
+    "mail": "a.savkin@polugar.ru",
+    "site": "",
+    "facebook": "darth.gil.1"
+  },
+  {
+    "alias": "other",
+    "contacts": [
+      {
+        "img": "",
+        "name": "Denis Strebkov",
+        "position": "Brand Ambassador",
+        "phones": ["+7 916 628 37 39"],
+        "mail": "d.strebkov@polugar.ru",
+        "site": "",
+        "facebook": "teloper"
+      },
+      {
+        "img": "",
+        "name": "Milana Neucheva",
+        "position": "Brand Ambassador",
+        "phones": ["+7 917 344 46 43"],
+        "mail": "neucheva@mail.ru",
+        "site": "",
+        "facebook": "neucheva"
+      },
+      {
+        "img": "",
+        "name": "Julian Biondi",
+        "position": "Brand Ambassador",
+        "phones": ["+39 339 781 87 10"],
+        "mail": "j.biondi@polugar.com",
+        "site": "",
+        "facebook": "julian.biondi.31"
+      }
+    ]
+  }
+]

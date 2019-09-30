@@ -1,0 +1,67 @@
+{
+  "alias": "nasha-masha",
+  "product_name": "No.2 Garlic & Pepper",
+  "product_alias": "no2-garlic-pepper",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_No2_Garlic_Pepper_large.png",
+    "thumb2x": "/static/images/bottles/700_No2_Garlic_Pepper_large@2x.png"
+  },
+  "product_collection": "Mixology",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Nasha Masha",
+  "images": [
+    {
+      "img": "/static/images/cocktail/nasha-masha/nasha-masha-1.jpg",
+      "img2x": "/static/images/cocktail/nasha-masha/nasha-masha-1.jpg",
+      "thumb": "/static/images/cocktail/nasha-masha/nasha-masha-1.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/nasha-masha/nasha-masha-2.jpg",
+      "img2x": "/static/images/cocktail/nasha-masha/nasha-masha-2.jpg",
+      "thumb": "/static/images/cocktail/nasha-masha/nasha-masha-2.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/nasha-masha/nasha-masha-3.jpg",
+      "img2x": "/static/images/cocktail/nasha-masha/nasha-masha-3.jpg",
+      "thumb": "/static/images/cocktail/nasha-masha/nasha-masha-3.jpg"
+    }
+  ],
+  "info": {
+    "method": "build, throwing",
+    "served": "",
+    "glass": "highball",
+    "decorate": "",
+    "garnish": "celery, lemon, cherry tomato",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "40 ml",
+      "ingredient": "No.2 Garlic & Pepper"
+    },
+    {
+      "unit_volume": "120 ml",
+      "ingredient": "tomato juice"
+    },
+    {
+      "unit_volume": "10 ml",
+      "ingredient": "lemon juice"
+    },
+    {
+      "unit_volume": "2 bar spoon",
+      "ingredient": "creemy horseradish"
+    },
+    {
+      "unit_volume": "",
+      "ingredient": "salt, pepper, tabasco, worcestershire"
+    }
+  ],
+  "description": "",
+  "author": {
+    "name": "",
+    "bio": "",
+    "location": "ReLab bar, Kazan",
+    "location_url": "http://www.relab.me"
+  }
+}

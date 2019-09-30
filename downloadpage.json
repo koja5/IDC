@@ -1,0 +1,89 @@
+[
+  {
+    "type": "all",
+    "name": "Download All",
+    "text": "We have carefully arranged Polugar portfolio for your downloads.",
+    "itemSize": 237.5,
+    "downloadFile": "/downloads/polugar-all.zip"
+  },
+  {
+    "type": "bottles",
+    "name": "Bottles Connoisseur",
+    "text": "",
+    "stats": 7,
+    "img": "/static/images/bottles/700_Buckwheat.png",
+    "img2x": "/static/images/bottles/700_Buckwheat@2x.png",
+    "itemData": "High-Res",
+    "itemSize": 21.7,
+    "itemFormat": "PNG",
+    "downloadFile": "/downloads/bottles-connoiseur.zip"
+  },
+  {
+    "type": "bottles",
+    "name": "Bottles Mixology",
+    "text": "",
+    "stats": 10,
+    "img": "/static/images/bottles/700_No3_Caraway.png",
+    "img2x": "/static/images/bottles/700_No3_Caraway@2x.png",
+    "itemData": "High-Res",
+    "itemSize": 27.2,
+    "itemFormat": "PNG",
+    "downloadFile": "/downloads/bottles-mixology.zip"
+  },
+  {
+    "type": "logotype",
+    "name": "Logotype",
+    "text": "",
+    "img": "/static/images/downloadpage/logo-polugar.svg",
+    "img2x": "/static/images/downloadpage/logo-polugar.svg",
+    "itemData": "English",
+    "itemSize": 0.3,
+    "itemFormat": "AI",
+    "downloadFile": "/downloads/logo-polugar.zip"
+  },
+  {
+    "type": "logotype",
+    "name": "Logotype",
+    "text": "",
+    "img": "/static/images/downloadpage/logo-rodionovandsons.svg",
+    "img2x": "/static/images/downloadpage/logo-rodionovandsons.svg",
+    "itemData": "English",
+    "itemSize": 0.2,
+    "itemFormat": "AI",
+    "downloadFile": "/downloads/logo-rodionovandsons.zip"
+  },
+  {
+    "type": "photos",
+    "name": "Distilerry Photos",
+    "text": "",
+    "stats": 13,
+    "img": "/static/images/downloadpage/MK3_4178_www_preview.jpeg",
+    "img2x": "/static/images/downloadpage/MK3_4178_www_preview.jpeg",
+    "itemData": "All package",
+    "itemSize": 4.7,
+    "itemFormat": "JPG",
+    "downloadFile": "/downloads/distillery-photos.zip"
+  },
+  {
+    "type": "photos",
+    "name": "Product Shots",
+    "text": "",
+    "stats": 14,
+    "img": "/static/images/downloadpage/download_prdicts_preview.png",
+    "img2x": "/static/images/downloadpage/download_prdicts_preview.png",
+    "itemData": "All package",
+    "itemSize": 179.8,
+    "itemFormat": "TIFF",
+    "downloadFile": "/downloads/product-shots.zip"
+  },
+  {
+    "type": "revival",
+    "name": "Polugar Revival",
+    "text": "",
+    "img": "",
+    "itemData": "English",
+    "itemSize": 2.5,
+    "itemFormat": "PDF",
+    "downloadFile": "/downloads/polugar-revival.pdf"
+  }
+]

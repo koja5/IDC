@@ -1,0 +1,79 @@
+[
+  {
+    "alias": "events",
+    "name": "Events",
+    "articles": [
+      {
+        "alias": "russian-bread-wine-is-the-original-vodka",
+        "title": "In Russian, vodka has historically been a catchall term for hard booze.",
+        "type": "article",
+        "images": [
+          {
+            "img": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-1.jpg",
+            "img2x": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-2.jpg",
+            "img2x": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-2.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-3.jpg",
+            "img2x": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-3.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "polugar-feature",
+        "title": "Vodka is merely a pretender to Polugar’s throne.",
+        "type": "article",
+        "images": [
+          {
+            "img": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-1.jpg",
+            "img2x": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-2.jpg",
+            "img2x": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-2.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-3.jpg",
+            "img2x": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-3.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "polugar-essential",
+        "title": "What comes to mind when you think about the Russian national drink?",
+        "type": "article",
+        "images": [
+          {
+            "img": "/static/images/cocktail/bird-of-a-feather/bird-of-a-feather-2.jpg",
+            "img2x": "/static/images/cocktail/bird-of-a-feather/bird-of-a-feather-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "polugar",
+        "title": "Polugar wine must be of proper quality",
+        "type": "article",
+        "images": [
+          {
+            "img": "/static/images/cocktail/godunovs-resent/godunovs-resent-1.jpg",
+            "img2x": "/static/images/cocktail/godunovs-resent/godunovs-resent-1.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "true-spirit-legacy-of-russia",
+        "title": "Let’s talk Polugar today, Russia’s true spirit legacy.",
+        "type": "article",
+        "images": [
+          {
+            "img": "/static/images/cocktail/cooler-n10/cooler-n10-1.jpg",
+            "img2x": "/static/images/cocktail/cooler-n10/cooler-n10-1.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]

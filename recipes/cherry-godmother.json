@@ -1,0 +1,50 @@
+{
+  "alias": "cherry-godmother",
+  "product_name": "Cherry",
+  "product_alias": "cherry",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_Cherry_large.png",
+    "thumb2x": "/static/images/bottles/700_Cherry_large@2x.png"
+  },
+  "product_collection": "Mixology",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Cherry Godmother",
+  "images": [
+    {
+      "img": "/static/images/cocktail/cherry-god-mother/cherry-god-mother-1.jpg",
+      "img2x": "/static/images/cocktail/cherry-god-mother/cherry-god-mother-1.jpg",
+      "thumb": "/static/images/cocktail/cherry-god-mother/cherry-god-mother-1.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/cherry-god-mother/cherry-god-mother-2.jpg",
+      "img2x": "/static/images/cocktail/cherry-god-mother/cherry-god-mother-2.jpg",
+      "thumb": "/static/images/cocktail/cherry-god-mother/cherry-god-mother-2.jpg"
+    }
+  ],
+  "info": {
+    "method": "",
+    "served": "",
+    "glass": "bild",
+    "decorate": "",
+    "garnish": "orange peel, cherry",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "60 ml",
+      "ingredient": "Polugar Cherry"
+    },
+    {
+      "unit_volume": "20 ml",
+      "ingredient": "amaretto"
+    }
+  ],
+  "description": "",
+  "author": {
+    "name": "",
+    "bio": "",
+    "location": "Ritz Carlton Moscow",
+    "location_url": "http://www.ritzcarlton.com/en/hotels/europe/moscow/dining#THE%20RITZ-CARLTON%20BAR%20%26%20LOBBY%20LOUNGE"
+  }
+}

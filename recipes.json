@@ -1,0 +1,455 @@
+[
+  {
+    "alias": "cocktails",
+    "name": "Cocktails",
+    "description": "Our vast selection of cocktails from worlds greatest bartenders showcase great mixability of Polugar and inspires with creative flavour combinations.",
+    "recipes": [
+      {
+        "alias": "bird-of-a-feather",
+        "name": "Bird of a feather",
+        "product_name": "No.3 Caraway",
+        "product_alias": "no3-caraway",
+        "author": "Antonio Lai",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/bird-of-a-feather/bird-of-a-feather-1.jpg",
+            "img2x": "/static/images/cocktail/bird-of-a-feather/bird-of-a-feather-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/bird-of-a-feather/bird-of-a-feather-2.jpg",
+            "img2x": "/static/images/cocktail/bird-of-a-feather/bird-of-a-feather-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "bird-of-paradise",
+        "name": "Bird of Paradise",
+        "product_name": "No.10 Juniper\n Old Russian Gin",
+        "product_alias": "no10-juniper-old-russian-gin",
+        "author": "Giacomo Giannotti",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-1.jpg",
+            "img2x": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-2.jpg",
+            "img2x": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-2.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-3.jpg",
+            "img2x": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-3.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "bread-and-wine",
+        "name": "Bread & Wine",
+        "product_name": "Honey & Pepper",
+        "product_alias": "",
+        "author": "Leonardo Leuchi",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/bread-and-wine/bread-and-wine-1.jpg",
+            "img2x": "/static/images/cocktail/bread-and-wine/bread-and-wine-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/bread-and-wine/bread-and-wine-2.jpg",
+            "img2x": "/static/images/cocktail/bread-and-wine/bread-and-wine-2.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/bread-and-wine/bread-and-wine-3.jpg",
+            "img2x": "/static/images/cocktail/bread-and-wine/bread-and-wine-3.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "bullet",
+        "name": "Bullet",
+        "product_name": "Classic Rye",
+        "product_alias": "classic-rye",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/bullet/bullet-1.jpg",
+            "img2x": "/static/images/cocktail/bullet/bullet-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/bullet/bullet-2.jpg",
+            "img2x": "/static/images/cocktail/bullet/bullet-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "cherry-godmother",
+        "name": "Cherry Godmother",
+        "product_name": "Cherry",
+        "product_alias": "cherry",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/cherry-god-mother/cherry-god-mother-1.jpg",
+            "img2x": "/static/images/cocktail/cherry-god-mother/cherry-god-mother-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/cherry-god-mother/cherry-god-mother-2.jpg",
+            "img2x": "/static/images/cocktail/cherry-god-mother/cherry-god-mother-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "cooler-no-10",
+        "name": "Cooler № 10",
+        "product_name": "No.10 Juniper\n Old Russian Gin",
+        "product_alias": "no10-juniper-old-russian-gin",
+        "author": "Roman Tabakov",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/cooler-n10/cooler-n10-1.jpg",
+            "img2x": "/static/images/cocktail/cooler-n10/cooler-n10-1.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "dill-sour",
+        "name": "Dill Sour",
+        "product_name": "No.3 Caraway",
+        "product_alias": "no3-caraway",
+        "author": "Roman Tabakov",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/dill-sour/dill-sour-1.jpg",
+            "img2x": "/static/images/cocktail/dill-sour/dill-sour-1.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "godunov's-resent",
+        "name": "Godunov's Resent",
+        "product_name": "Cherry",
+        "product_alias": "cherry",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/godunovs-resent/godunovs-resent-1.jpg",
+            "img2x": "/static/images/cocktail/godunovs-resent/godunovs-resent-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/godunovs-resent/godunovs-resent-2.jpg",
+            "img2x": "/static/images/cocktail/godunovs-resent/godunovs-resent-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "honey-and-pepper-negroni",
+        "name": "Honey & Pepper Negroni",
+        "product_name": "No.4 Honey & Allspice",
+        "product_alias": "no4-honey-allspice",
+        "author": "Roman Tabakov",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/honey-and-pepper-negroni/honey-and-pepper-negroni-1.jpg",
+            "img2x": "/static/images/cocktail/honey-and-pepper-negroni/honey-and-pepper-negroni-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/honey-and-pepper-negroni/honey-and-pepper-negroni-2.jpg",
+            "img2x": "/static/images/cocktail/honey-and-pepper-negroni/honey-and-pepper-negroni-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "minin's-fire",
+        "name": "Minin's Fire",
+        "product_name": "No.1 Rye & Wheat",
+        "product_alias": "no1-rye-wheat",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/minins-fire/minins-fire-1.jpg",
+            "img2x": "/static/images/cocktail/minins-fire/minins-fire-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/minins-fire/minins-fire-2.jpg",
+            "img2x": "/static/images/cocktail/minins-fire/minins-fire-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "more-menshikov",
+        "name": "More Menshikov",
+        "product_name": "Cherry",
+        "product_alias": "cherry",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/more-menshikov/more-menshikov-1.jpg",
+            "img2x": "/static/images/cocktail/more-menshikov/more-menshikov-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/more-menshikov/more-menshikov-2.jpg",
+            "img2x": "/static/images/cocktail/more-menshikov/more-menshikov-2.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/more-menshikov/more-menshikov-3.jpg",
+            "img2x": "/static/images/cocktail/more-menshikov/more-menshikov-3.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "nasha-masha",
+        "name": "Nasha Masha",
+        "product_name": "No.2 Garlic & Pepper",
+        "product_alias": "no2-garlic-pepper",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/nasha-masha/nasha-masha-1.jpg",
+            "img2x": "/static/images/cocktail/nasha-masha/nasha-masha-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/nasha-masha/nasha-masha-2.jpg",
+            "img2x": "/static/images/cocktail/nasha-masha/nasha-masha-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "orlov's-carafe",
+        "name": "Orlov's Carafe",
+        "product_name": "No.6 Pepper",
+        "product_alias": "no6-pepper",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/orlovs-carafe/orlovs-carafe-1.jpg",
+            "img2x": "/static/images/cocktail/orlovs-carafe/orlovs-carafe-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/orlovs-carafe/orlovs-carafe-2.jpg",
+            "img2x": "/static/images/cocktail/orlovs-carafe/orlovs-carafe-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "pepper-manhattan",
+        "name": "Pepper Manhattan",
+        "product_name": "No.6 Pepper",
+        "product_alias": "no6-pepper",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-1.jpg",
+            "img2x": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-2.jpg",
+            "img2x": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "peter's-beard",
+        "name": "Peter's Beard",
+        "product_name": "No.1 Rye & Wheat",
+        "product_alias": "no1-rye-wheat",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/peters-beard/peters-beard-1.jpg",
+            "img2x": "/static/images/cocktail/peters-beard/peters-beard-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/peters-beard/peters-beard-2.jpg",
+            "img2x": "/static/images/cocktail/peters-beard/peters-beard-2.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/peters-beard/peters-beard-3.jpg",
+            "img2x": "/static/images/cocktail/peters-beard/peters-beard-3.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "polugar-dry-martini",
+        "name": "Polugar dry martini",
+        "product_name": "No.10 Juniper\n Old Russian Gin",
+        "product_alias": "no10-juniper-old-russian-gin",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/polugar-dry-martini/polugar-dry-martini-1.jpg",
+            "img2x": "/static/images/cocktail/polugar-dry-martini/polugar-dry-martini-1.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "rasputin's-spirit",
+        "name": "Rasputin's spirit",
+        "product_name": "No.5 Horseradish",
+        "product_alias": "no5-horseradish",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/rasputins-spirit/rasputins-spirit-1.jpg",
+            "img2x": "/static/images/cocktail/rasputins-spirit/rasputins-spirit-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/rasputins-spirit/rasputins-spirit-2.jpg",
+            "img2x": "/static/images/cocktail/rasputins-spirit/rasputins-spirit-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "reality-czeck",
+        "name": "Reality Czeck",
+        "product_name": "Classic Rye",
+        "product_alias": "classic-rye",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/reality-czeck/reality-czeck-1.jpg",
+            "img2x": "/static/images/cocktail/reality-czeck/reality-czeck-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/reality-czeck/reality-czeck-2.jpg",
+            "img2x": "/static/images/cocktail/reality-czeck/reality-czeck-2.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/reality-czeck/reality-czeck-3.jpg",
+            "img2x": "/static/images/cocktail/reality-czeck/reality-czeck-3.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/reality-czeck/reality-czeck-4.jpg",
+            "img2x": "/static/images/cocktail/reality-czeck/reality-czeck-4.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "russian-flower-fizz",
+        "name": "Russian Flower Fizz",
+        "product_name": "Wheat",
+        "product_alias": "wheat",
+        "author": "Leonardo Leuchi",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-1.jpg",
+            "img2x": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-2.jpg",
+            "img2x": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-2.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-3.jpg",
+            "img2x": "/static/images/cocktail/russian-flower-fizz/russian-flower-fizz-3.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "russian-gambler",
+        "name": "Russian Gambler",
+        "product_name": "No.4 Honey & Allspice",
+        "product_alias": "no4-honey-allspice",
+        "author": "Seong Ha Lee",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/russian-gambler/russian-gambler-1.jpg",
+            "img2x": "/static/images/cocktail/russian-gambler/russian-gambler-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/russian-gambler/russian-gambler-2.jpg",
+            "img2x": "/static/images/cocktail/russian-gambler/russian-gambler-2.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/russian-gambler/russian-gambler-3.jpg",
+            "img2x": "/static/images/cocktail/russian-gambler/russian-gambler-3.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "smoky-mary",
+        "name": "Smoky Mary",
+        "product_name": "No.2 Garlic & Pepper",
+        "product_alias": "no2-garlic-pepper",
+        "author": "Dima Shovkoplias",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/smoky-mary/smoky-mary-1.jpg",
+            "img2x": "/static/images/cocktail/smoky-mary/smoky-mary-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/smoky-mary/smoky-mary-2.jpg",
+            "img2x": "/static/images/cocktail/smoky-mary/smoky-mary-2.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "susanin's-sleigh",
+        "name": "Susanin's Sleigh",
+        "product_name": "No.6 Pepper",
+        "product_alias": "no6-pepper",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-1.jpg",
+            "img2x": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-2.jpg",
+            "img2x": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-2.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-3.jpg",
+            "img2x": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-3.jpg"
+          }
+        ]
+      },
+      {
+        "alias": "usupov's-soup",
+        "name": "Usupov's Soup",
+        "product_name": "No.5 Horseradish",
+        "product_alias": "no5-horseradish",
+        "author": "",
+        "type": "recipe",
+        "images": [
+          {
+            "img": "/static/images/cocktail/usupovs-soup/usupovs-soup-1.jpg",
+            "img2x": "/static/images/cocktail/usupovs-soup/usupovs-soup-1.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/usupovs-soup/usupovs-soup-2.jpg",
+            "img2x": "/static/images/cocktail/usupovs-soup/usupovs-soup-2.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/usupovs-soup/usupovs-soup-3.jpg",
+            "img2x": "/static/images/cocktail/usupovs-soup/usupovs-soup-3.jpg"
+          },
+          {
+            "img": "/static/images/cocktail/usupovs-soup/usupovs-soup-4.jpg",
+            "img2x": "/static/images/cocktail/usupovs-soup/usupovs-soup-4.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]

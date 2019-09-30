@@ -1,0 +1,74 @@
+{
+  "alias": "bird-of-paradise",
+  "product_name": "No.10 Juniper\n Old Russian Gin",
+  "product_alias": "no10-juniper-old-russian-gin",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_No10_Juniper_large.png",
+    "thumb2x": "/static/images/bottles/700_No10_Juniper_large@2x.png"
+  },
+  "product_collection": "Mixology",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Bird of Paradise",
+  "images": [
+    {
+      "img": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-1.jpg",
+      "img2x": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-1.jpg",
+      "thumb": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-1.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-2.jpg",
+      "img2x": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-2.jpg",
+      "thumb": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-2.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-3.jpg",
+      "img2x": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-3.jpg",
+      "thumb": "/static/images/cocktail/bird-of-paradise/bird-of-paradise-3.jpg"
+    }
+  ],
+  "info": {
+    "method": "mix all the ingredients in a cocktail shaker and shake without ice for emulsionate the egg white,add 4 o 5 cube ice and shake it again untill is propally chill.",
+    "served": "",
+    "glass": "bird glass, covered with sugar",
+    "decorate": "",
+    "garnish": "a mint and rose petal",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "50 ml",
+      "ingredient": "Polugar No.10 Juniper"
+    },
+    {
+      "unit_volume": "5 ml",
+      "ingredient": "pastis"
+    },
+    {
+      "unit_volume": "10 ml",
+      "ingredient": "mango pureer"
+    },
+    {
+      "unit_volume": "25 ml",
+      "ingredient": "fresh lemon juice"
+    },
+    {
+      "unit_volume": "15 ml",
+      "ingredient": "sugar syrup"
+    },
+    {
+      "unit_volume": "15 ml",
+      "ingredient": "egg white"
+    },
+    {
+      "unit_volume": "2 dash",
+      "ingredient": "celery bitter"
+    }
+  ],
+  "description": "",
+  "author": {
+    "name": "Giacomo Giannotti",
+    "bio": "",
+    "location": "Paradiso, Barcelona"
+  }
+}

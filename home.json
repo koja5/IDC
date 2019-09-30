@@ -1,0 +1,53 @@
+{
+    "bottles": [
+      {
+        "alias": "cherry",
+        "name": "Polugar Cherry",
+        "collection": "Mixology",
+        "collection_alias": "mixology-gastronomy",
+        "isNew": true,
+        "info": "",
+        "volume": 700,
+        "href": "/products?collection=mixology-gastronomy",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_Cherry_large.png",
+            "img2x": "/static/images/bottles/700_Cherry_large@2x.png"
+          }
+        ]
+      },
+      {
+        "id": "wheat",
+        "name": "Polugar Wheat",
+        "collection": "Connoisseur",
+        "collection_alias": "connoisseur",
+        "isNew": false,
+        "info": "collection",
+        "volume": 700,
+        "href": "/products?collection=connoiseur",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_Wheat_large.png",
+            "img2x": "/static/images/bottles/700_Wheat_large@2x.png"
+          }
+        ]
+      },
+      {
+        "id": "no3-caraway",
+        "name": "Polugar No.3 Caraway",
+        "collection": "Mixology",
+        "collection_alias": "mixology-gastronomy",
+        "isNew": false,
+        "info": "collection",
+        "volume": 700,
+        "href": "/products?collection=mixology-gastronomy",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_No3_Caraway_large.png",
+            "img2x": "/static/images/bottles/700_No3_Caraway_large@2x.png"
+          }
+        ]
+      }
+    ]
+  }
+  

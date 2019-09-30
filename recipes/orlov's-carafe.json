@@ -1,0 +1,65 @@
+{
+  "alias": "orlov's-carafe",
+  "product_name": "No.6 Pepper",
+  "product_alias": "no6-pepper",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_No6_Pepper.png",
+    "thumb2x": "/static/images/bottles/700_No6_Pepper@2x.png"
+  },
+  "product_collection": "Mixology",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Orlov's Carafe",
+  "images": [
+    {
+      "img": "/static/images/cocktail/orlovs-carafe/orlovs-carafe-1.jpg",
+      "img2x": "/static/images/cocktail/orlovs-carafe/orlovs-carafe-1.jpg",
+      "thumb": "/static/images/cocktail/orlovs-carafe/orlovs-carafe-1.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/orlovs-carafe/orlovs-carafe-2.jpg",
+      "img2x": "/static/images/cocktail/orlovs-carafe/orlovs-carafe-2.jpg",
+      "thumb": "/static/images/cocktail/orlovs-carafe/orlovs-carafe-2.jpg"
+    }
+  ],
+  "info": {
+    "method": "shake",
+    "served": "",
+    "glass": "tulip",
+    "decorate": "",
+    "garnish": "pink peppercorns with balsamic creme",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "60 ml",
+      "ingredient": "Polugar No.6 Pepper"
+    },
+    {
+      "unit_volume": "20 ml",
+      "ingredient": "angostura Amaro"
+    },
+    {
+      "unit_volume": "10 ml",
+      "ingredient": "cranberry Juice"
+    },
+    {
+      "unit_volume": "10 ml",
+      "ingredient": "blackcurrant syrup"
+    },
+    {
+      "unit_volume": "10 ml",
+      "ingredient": "egg white"
+    },
+    {
+      "unit_volume": "1 gr",
+      "ingredient": "pink peppercorns"
+    }
+  ],
+  "description": "",
+  "author": {
+    "name": "",
+    "bio": "",
+    "location": ""
+  }
+}
