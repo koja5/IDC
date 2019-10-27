@@ -1,0 +1,70 @@
+{
+  "alias": "susanin's-sleigh",
+  "product_name": "No.6 Pepper",
+  "product_alias": "no6-pepper",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_No6_Pepper.png",
+    "thumb2x": "/static/images/bottles/700_No6_Pepper@2x.png"
+  },
+  "product_collection": "Mixology",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Susanin's Sleigh",
+  "images": [
+    {
+      "img": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-1.jpg",
+      "img2x": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-1.jpg",
+      "thumb": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-1.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-2.jpg",
+      "img2x": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-2.jpg",
+      "thumb": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-2.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-3.jpg",
+      "img2x": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-3.jpg",
+      "thumb": "/static/images/cocktail/susanins-sleigh/susanins-sleigh-3.jpg"
+    }
+  ],
+  "info": {
+    "method": "muddle, double shake",
+    "served": "",
+    "glass": "cocktail glass",
+    "decorate": "",
+    "garnish": "raspberry wrapped with lemon peel",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "50 ml",
+      "ingredient": "Firerock wines No.6 Pepper"
+    },
+    {
+      "unit_volume": "10 ml",
+      "ingredient": "limoncello"
+    },
+    {
+      "unit_volume": "20 ml",
+      "ingredient": "white chocolate syrup"
+    },
+    {
+      "unit_volume": "20 ml",
+      "ingredient": "lemon juice"
+    },
+    {
+      "unit_volume": "10 ml",
+      "ingredient": "egg white"
+    },
+    {
+      "unit_volume": "20 gr",
+      "ingredient": "raspberry"
+    }
+  ],
+  "description": "",
+  "author": {
+    "name": "",
+    "bio": "",
+    "location": ""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "alias": "dill-sour",
+  "product_name": "No.3 Caraway",
+  "product_alias": "no3-caraway",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_No3_Caraway_large.png",
+    "thumb2x": "/static/images/bottles/700_No3_Caraway_large@2x.png"
+  },
+  "product_collection": "Mixology",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Dill Sour",
+  "images": [
+    {
+      "img": "/static/images/cocktail/dill-sour/dill-sour-1.jpg",
+      "img2x": "/static/images/cocktail/dill-sour/dill-sour-1.jpg",
+      "thumb": "/static/images/cocktail/dill-sour/dill-sour-1.jpg"
+    }
+  ],
+  "info": {
+    "method": "shake, double strain",
+    "served": "",
+    "glass": "coupette",
+    "decorate": "",
+    "garnish": "dill",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "50 ml",
+      "ingredient": "Firerock wines No.3 Caraway"
+    },
+    {
+      "unit_volume": "25 ml",
+      "ingredient": "lemon juice"
+    },
+    {
+      "unit_volume": "20 ml",
+      "ingredient": "sughar syrup"
+    },
+    {
+      "unit_volume": "30 gr",
+      "ingredient": "dill"
+    },
+    {
+      "unit_volume": "10 ml",
+      "ingredient": "egg white"
+    }
+  ],
+  "description": "The Sour in Russian style on the basis of Firerock wines Caraway. Light and refreshing cocktail with herbal and spicy notes. The cocktail was invented by Roman Tabakov specially for the Firerock wines cocktail program.",
+  "author": {
+    "name": "Roman Tabakov",
+    "bio": "Roman has worked for more than 10 years in the most prestigious Moscow  restaurants, bars and clubs such as Sixty, Don't tell Mama, Chateau De Fantoma, Marusya Bar & Restaurant, Vision Cocktail Hall, Soho Rooms and others. He was in the professional association Russian Cocktail Club. He is participant and winner of prestigious professional competitions:<br> Diageo Reserve World Class<br>Disaronno Mixing Star<br>Cantineros de Rusia<br>Bols Arownd The World<br>Bacardi Legacy Cocktail Competition<br>Calvados Trophie<br>Chivas Master Cocktail Competition",
+    "location": ""
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "alias": "smoky-mary",
+  "product_name": "No.2 Garlic & Pepper",
+  "product_alias": "no2-garlic-pepper",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_No2_Garlic_Pepper_large.png",
+    "thumb2x": "/static/images/bottles/700_No2_Garlic_Pepper_large@2x.png"
+  },
+  "product_collection": "Mixology",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Smoky Mary",
+  "images": [
+    {
+      "img": "/static/images/cocktail/smoky-mary/smoky-mary-1.jpg",
+      "img2x": "/static/images/cocktail/smoky-mary/smoky-mary-1.jpg",
+      "thumb": "/static/images/cocktail/smoky-mary/smoky-mary-1.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/smoky-mary/smoky-mary-2.jpg",
+      "img2x": "/static/images/cocktail/smoky-mary/smoky-mary-2.jpg",
+      "thumb": "/static/images/cocktail/smoky-mary/smoky-mary-2.jpg"
+    }
+  ],
+  "info": {
+    "method": "stir with the smoke",
+    "served": "",
+    "glass": "",
+    "decorate": "",
+    "garnish": "celery stick and celery salt rim",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "50 ml",
+      "ingredient": "Firerock wines No.2 Garlic & Pepper"
+    },
+    {
+      "unit_volume": "120 ml",
+      "ingredient": "tomato juice"
+    },
+    {
+      "unit_volume": "5 ml",
+      "ingredient": "worcestershire sauce"
+    },
+    {
+      "unit_volume": "15 ml",
+      "ingredient": "honey syrup"
+    },
+    {
+      "unit_volume": "20 ml",
+      "ingredient": "lemon juice"
+    },
+    {
+      "unit_volume": "2 dash",
+      "ingredient": "tabasco sauce"
+    },
+    {
+      "unit_volume": "Pinch",
+      "ingredient": "of white salt"
+    }
+  ],
+  "description": "",
+  "author": {
+    "name": "Dima Shovkoplias",
+    "bio": "",
+    "location": "Paravoz SpeakEasy, Kiev",
+    "location_url": "http://parovoz.bar/en/home/"
+  }
+}

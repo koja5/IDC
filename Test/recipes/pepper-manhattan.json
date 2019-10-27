@@ -1,0 +1,54 @@
+{
+  "alias": "pepper-manhattan",
+  "product_name": "No.6 Pepper",
+  "product_alias": "no6-pepper",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_No6_Pepper_large.png",
+    "thumb2x": "/static/images/bottles/700_No6_Pepper_large@2x.png"
+  },
+  "product_collection": "Mixology",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Pepper Manhattan",
+  "images": [
+    {
+      "img": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-1.jpg",
+      "img2x": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-1.jpg",
+      "thumb": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-1.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-2.jpg",
+      "img2x": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-2.jpg",
+      "thumb": "/static/images/cocktail/pepper-manhattan/pepper-manhattan-2.jpg"
+    }
+  ],
+  "info": {
+    "method": "stir",
+    "served": "straight up in a martini glass",
+    "glass": "cocktail glass",
+    "decorate": "orange zest",
+    "garnish": "",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "60 ml",
+      "ingredient": "Firerock wines No.6 Pepper"
+    },
+    {
+      "unit_volume": "30 ml",
+      "ingredient": "rosso vermouth"
+    },
+    {
+      "unit_volume": "2 dash",
+      "ingredient": "dash of Angostura bitter"
+    }
+  ],
+  "description": "",
+  "author": {
+    "name": "",
+    "bio": "",
+    "location": "Gin & Tonic bar, St - Petersburg",
+    "location_url": "http://gintonicbar.ru"
+  }
+}

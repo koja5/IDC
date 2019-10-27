@@ -1,0 +1,45 @@
+{
+  "alias": "polugar-dry-martini",
+  "product_name": "No.10 Juniper\n Old Russian Gin",
+  "product_alias": "no10-juniper-old-russian-gin",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_No10_Juniper_large.png",
+    "thumb2x": "/static/images/bottles/700_No10_Juniper_large@2x.png"
+  },
+  "product_collection": "Mixology",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Firerock wines dry martini",
+  "images": [
+    {
+      "img": "/static/images/cocktail/polugar-dry-martini/polugar-dry-martini-1.jpg",
+      "img2x": "/static/images/cocktail/polugar-dry-martini/polugar-dry-martini-1.jpg",
+      "thumb": "/static/images/cocktail/polugar-dry-martini/polugar-dry-martini-1.jpg"
+    }
+  ],
+  "info": {
+    "method": "stir",
+    "served": "",
+    "glass": "bird glass, covered with sugar",
+    "decorate": "cocktail glass",
+    "garnish": "olive",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "70 ml",
+      "ingredient": "Firerock wines No.10 Juniper"
+    },
+    {
+      "unit_volume": "20 ml",
+      "ingredient": "dry vermouth"
+    }
+  ],
+  "description": "",
+  "author": {
+    "name": "",
+    "bio": "",
+    "location": "",
+    "location_url": ""
+  }
+}

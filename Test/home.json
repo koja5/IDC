@@ -1,0 +1,53 @@
+{
+    "bottles": [
+      {
+        "alias": "cherry",
+        "name": "Je Suis Blu",
+        "collection": "2014",
+        "collection_alias": "mixology-gastronomy",
+        "isNew": false,
+        "info": "",
+        "volume": 700,
+        "href": "/products?collection=mixology-gastronomy",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_Cherry_large.png",
+            "img2x": "/static/images/bottles/700_Cherry_large@2x.png"
+          }
+        ]
+      },
+      {
+        "id": "wheat",
+        "name": "Millesime d'Orange",
+        "collection": "2015",
+        "collection_alias": "mixology-gastronomy",
+        "isNew": false,
+        "info": "collection",
+        "volume": 700,
+        "href": "/products?collection=mixology-gastronomy",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_Wheat_large.png",
+            "img2x": "/static/images/bottles/700_Wheat_large@2x.png"
+          }
+        ]
+      },
+      {
+        "id": "no3-caraway",
+        "name": "The Benoit",
+        "collection": "2016",
+        "collection_alias": "mixology-gastronomy",
+        "isNew": false,
+        "info": "collection",
+        "volume": 700,
+        "href": "/products?collection=mixology-gastronomy",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_No3_Caraway_large.png",
+            "img2x": "/static/images/bottles/700_No3_Caraway_large@2x.png"
+          }
+        ]
+      }
+    ]
+  }
+  

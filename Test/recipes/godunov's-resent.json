@@ -1,0 +1,57 @@
+{
+  "alias": "godunov's-resent",
+  "product_name": "Cherry",
+  "product_alias": "cherry",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_Cherry_large.png",
+    "thumb2x": "/static/images/bottles/700_Cherry_large@2x.png"
+  },
+  "product_collection": "Mixology",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Godunov's Resent",
+  "images": [
+    {
+      "img": "/static/images/cocktail/godunovs-resent/godunovs-resent-1.jpg",
+      "img2x": "/static/images/cocktail/godunovs-resent/godunovs-resent-1.jpg",
+      "thumb": "/static/images/cocktail/godunovs-resent/godunovs-resent-1.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/godunovs-resent/godunovs-resent-2.jpg",
+      "img2x": "/static/images/cocktail/godunovs-resent/godunovs-resent-2.jpg",
+      "thumb": "/static/images/cocktail/godunovs-resent/godunovs-resent-2.jpg"
+    }
+  ],
+  "info": {
+    "method": "shake",
+    "served": "",
+    "glass": "cocktail glass",
+    "decorate": "",
+    "garnish": "cherry and blueberry on a pick",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "40 ml",
+      "ingredient": "Firerock wines Cherry"
+    },
+    {
+      "unit_volume": "40 ml",
+      "ingredient": "cherry brandy liqueur"
+    },
+    {
+      "unit_volume": "30 ml",
+      "ingredient": "blueberry pure"
+    },
+    {
+      "unit_volume": "30 ml",
+      "ingredient": "heavy cream "
+    }
+  ],
+  "description": "",
+  "author": {
+    "name": "",
+    "bio": "",
+    "location": "Ritz Carlton Moscow"
+  }
+}

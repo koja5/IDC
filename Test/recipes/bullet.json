@@ -1,0 +1,61 @@
+{
+  "alias": "bullet",
+  "product_name": "Classic Rye",
+  "product_alias": "classic-rye",
+  "product_image": {
+    "thumb": "/static/images/bottles/700_Classic_Rye_large.png",
+    "thumb2x": "/static/images/bottles/700_Classic_Rye_large@2x.png"
+  },
+  "product_collection": "Connoisseur",
+  "category": "Cocktails",
+  "category_alias": "cocktails",
+  "recipe_name": "Bullet",
+  "images": [
+    {
+      "img": "/static/images/cocktail/bullet/bullet-1.jpg",
+      "img2x": "/static/images/cocktail/bullet/bullet-1.jpg",
+      "thumb": "/static/images/cocktail/bullet/bullet-1.jpg"
+    },
+    {
+      "img": "/static/images/cocktail/bullet/bullet-2.jpg",
+      "img2x": "/static/images/cocktail/bullet/bullet-2.jpg",
+      "thumb": "/static/images/cocktail/bullet/bullet-2.jpg"
+    }
+  ],
+  "info": {
+    "method": "",
+    "served": "",
+    "glass": "",
+    "decorate": "",
+    "garnish": "",
+    "technic": ""
+  },
+  "ingredients": [
+    {
+      "unit_volume": "50 ml",
+      "ingredient": "Firerock wines Rye"
+    },
+    {
+      "unit_volume": "20 ml",
+      "ingredient": "lemon juice"
+    },
+    {
+      "unit_volume": "10 ml",
+      "ingredient": "rich sugar syrup (2:1)"
+    },
+    {
+      "unit_volume": "1 dash",
+      "ingredient": "absinthe"
+    },
+    {
+      "unit_volume": "10 ml",
+      "ingredient": "egg white"
+    }
+  ],
+  "description": "",
+  "author": {
+    "name": "",
+    "bio": "",
+    "location": ""
+  }
+}

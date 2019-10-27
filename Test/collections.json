@@ -1,0 +1,172 @@
+[
+  {
+    "alias": "connoisseur",
+    "name": "Connoisseur",
+    "description": "Following the traditional recipe found by Boris Rodionov, the range of Single Grain Polugars are true expressions of the historic vodka.",
+    "products": [
+      {
+        "alias": "single-malt-rye",
+        "name": "Single Malt Rye",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_Single_Malt_Rye.png",
+            "img2x": "/static/images/bottles/700_Single_Malt_Rye@2x.png"
+          }
+        ],
+        "is_new": false
+      },
+      {
+        "alias": "classic-rye",
+        "name": "Classic Rye",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_Classic_Rye.png",
+            "img2x": "/static/images/bottles/700_Classic_Rye@2x.png"
+          }
+        ],
+        "is_new": false
+      },
+      {
+        "alias": "barley",
+        "name": "Barley",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_Barley.png",
+            "img2x": "/static/images/bottles/700_Barley@2x.png"
+          }
+        ],
+        "is_new": false
+      },
+      {
+        "alias": "buckwheat",
+        "name": "Buckwheat",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_Buckwheat.png",
+            "img2x": "/static/images/bottles/700_Buckwheat@2x.png"
+          }
+        ],
+        "is_new": true
+      },
+      {
+        "alias": "wheat",
+        "name": "Wheat",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_Wheat.png",
+            "img2x": "/static/images/bottles/700_Wheat@2x.png"
+          }
+        ],
+        "is_new": false
+      }
+    ]
+  },
+  {
+    "alias": "mixology-gastronomy",
+    "name": "Mixology",
+    "description": "This recipes pay homage to traditional Breadwine infusions popular during the golden age of Russian distillation.",
+    "products": [
+      {
+        "alias": "cherry",
+        "name": "Cherry",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_Cherry.png",
+            "img2x": "/static/images/bottles/700_Cherry@2x.png"
+          }
+        ],
+        "is_new": true
+      },
+      {
+        "alias": "no1-rye-wheat",
+        "name": "No.1 Rye & Wheat",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_No1_Rye_Wheat.png",
+            "img2x": "/static/images/bottles/700_No1_Rye_Wheat@2x.png"
+          }
+        ],
+        "is_new": false
+      },
+      {
+        "alias": "no2-garlic-pepper",
+        "name": "No.2 Garlic & Pepper",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_No2_Garlic_Pepper.png",
+            "img2x": "/static/images/bottles/700_No2_Garlic_Pepper@2x.png"
+          }
+        ],
+        "is_new": false
+      },
+      {
+        "alias": "no3-caraway",
+        "name": "No.3 Caraway",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_No3_Caraway.png",
+            "img2x": "/static/images/bottles/700_No3_Caraway@2x.png"
+          }
+        ],
+        "is_new": false
+      },
+      {
+        "alias": "no4-honey-allspice",
+        "name": "No.4 Honey & Allspice",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_No4_Honey_Allspice.png",
+            "img2x": "/static/images/bottles/700_No4_Honey_Allspice@2x.png"
+          }
+        ],
+        "is_new": false
+      },
+      {
+        "alias": "no5-horseradish",
+        "name": "No.5 Horseradish",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_No5_Horseradish.png",
+            "img2x": "/static/images/bottles/700_No5_Horseradish@2x.png"
+          }
+        ],
+        "is_new": true
+      },
+      {
+        "alias": "no6-pepper",
+        "name": "No.6 Pepper",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_No6_Pepper.png",
+            "img2x": "/static/images/bottles/700_No6_Pepper@2x.png"
+          }
+        ],
+        "is_new": false
+      },
+      {
+        "alias": "no10-juniper-old-russian-gin",
+        "name": "No.10 Juniper\n Old Russian Gin",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_No10_Juniper.png",
+            "img2x": "/static/images/bottles/700_No10_Juniper@2x.png"
+          }
+        ],
+        "is_new": false
+      }
+    ]
+  }
+]

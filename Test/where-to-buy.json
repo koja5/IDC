@@ -1,0 +1,167 @@
+[
+    {
+      "location": "Russia",
+      "image": "/static/images/wheretobuy/beijing-wtb.png",
+      "city": [
+        {
+          "name": "Moscow",
+          "site": "fortwine.ru",
+          "address": "1-st Pugachevskaya st. 25 building 1",
+          "email": "fort@fortltd.ru",
+          "telephone": ["+7 495 775 14 14 (Moscow)"]
+        },
+        {
+          "name": "St. Petersburg",
+          "site": "",
+          "address": "",
+          "email": "fort.spb@fortltd.ru",
+          "telephone": ["+7 812 334 31 03 (Saint Petersburg)"]
+        }
+      ]
+    },
+    {
+      "location": "China",
+      "city": [
+        {
+          "name": "Shanghai",
+          "site": "cws-wines.com",
+          "address": "Room 702, Petroleum Building, no.1, Lane 1136, Xin Zha Road, Jing’an district",
+          "email": "",
+          "telephone": ["+86 21 60871811"]
+        }
+      ]
+    },
+    {
+      "location": "France",
+      "city": [
+        {
+          "name": "Bordeaux",
+          "site": "divawine.com",
+          "address": "33-34 Quai de Bacalan 33000",
+          "email": "diva@divawine.com",
+          "telephone": []
+        }
+      ]
+    },
+    {
+      "location": "Germany",
+      "city": [
+        {
+          "name": "Berlin",
+          "site": "drifterspirits.com",
+          "address": "",
+          "email": "hello@drifterspirits.de",
+          "telephone": []
+        }
+      ]
+    },
+    {
+      "location": "Greece",
+      "city": [
+        {
+          "name": "Attiki",
+          "site": "deals.com.gr",
+          "address": "Ionias 124 13671 Acharnae",
+          "email": "",
+          "telephone": ["+30 210 2321212", "+30 210 2321213"]
+        }
+      ]
+    },
+    {
+      "location": "Italy",
+      "city": [
+        {
+          "name": "Piacenza",
+          "site": "onestigroup.com",
+          "address": "Via Toscana 5/7 29017 Fiorenzuola D’Arda",
+          "email": "CustomerService@onestigroup.com",
+          "telephone": ["+39 0523 24 55 11"]
+        }
+      ]
+    },
+    {
+      "location": "Kazakhstan",
+      "city": [
+        {
+          "name": "Almaty",
+          "site": "kws.kz",
+          "address": "st. Tulebayeva, business center 'Zhetysu', 6 floor, 601 office",
+          "email": "office@kws.kz",
+          "telephone": ["+7 727 271 85 35"]
+        }
+      ]
+    },
+    {
+      "location": "Latvia",
+      "city": [
+        {
+          "name": "Riga",
+          "site": "balticxl.lv",
+          "address": "Piedrujas iela 22, LV-1073",
+          "email": "info@balticxl.lv",
+          "telephone": ["+371 671 388 60"]
+        }
+      ]
+    },
+    {
+      "location": "Poland",
+      "city": [
+        {
+          "name": "Warszawa",
+          "site": "biapol.pl",
+          "address": "Złota st. 61 / 100, 00-819",
+          "email": "kontakt@biapol.pl",
+          "telephone": ["+48 22 439 99 99"]
+        }
+      ]
+    },
+    {
+      "location": "Spain",
+      "city": [
+        {
+          "name": "Barcelona",
+          "site": "escoladist.com/",
+          "address": "Calle Comercial, 13 (Detrás del Mercat del Born) 08003",
+          "email": "born@escoladist.com",
+          "telephone": ["+34 93 372 72 11"]
+        }
+      ]
+    },
+    {
+      "location": "UK",
+      "city": [
+        {
+          "name": "London",
+          "site": "emporiabrands.com",
+          "address": "172 London Road Guildford",
+          "email": "info@emporiabrands.com",
+          "telephone": ["+44 1483 458700"]
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "city": [
+        {
+          "name": "Kiev",
+          "site": "goodwine.ua",
+          "address": "",
+          "email": "info@preissimports.com",
+          "telephone": ["+38 44 390 7962"]
+        }
+      ]
+    },
+    {
+      "location": "USA",
+      "city": [
+        {
+          "name": "Ramona",
+          "site": "preissimports.com",
+          "address": "432 Maple Street, Ste #4 Ramona, CA 92065",
+          "email": "info@preissimports.com",
+          "telephone": ["+1 760-789-9000"]
+        }
+      ]
+    }
+  ]
+  
