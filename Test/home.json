@@ -1,7 +1,7 @@
 {
     "bottles": [
       {
-        "alias": "cherry",
+        "alias": "2014",
         "name": "Je Suis Blu",
         "collection": "2014",
         "collection_alias": "mixology-gastronomy",
@@ -17,12 +17,12 @@
         ]
       },
       {
-        "id": "wheat",
+        "alias": "2015",
         "name": "Millesime d'Orange",
         "collection": "2015",
         "collection_alias": "mixology-gastronomy",
         "isNew": false,
-        "info": "collection",
+        "info": "",
         "volume": 700,
         "href": "/products?collection=mixology-gastronomy",
         "images": [
@@ -33,7 +33,7 @@
         ]
       },
       {
-        "id": "no3-caraway",
+        "alias": "2016",
         "name": "The Benoit",
         "collection": "2016",
         "collection_alias": "mixology-gastronomy",

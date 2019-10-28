@@ -51,18 +51,6 @@
           }
         ],
         "is_new": true
-      },
-      {
-        "alias": "wheat",
-        "name": "Wheat",
-        "type": "product",
-        "images": [
-          {
-            "img": "/static/images/bottles/700_Wheat.png",
-            "img2x": "/static/images/bottles/700_Wheat@2x.png"
-          }
-        ],
-        "is_new": false
       }
     ]
   },
@@ -72,7 +60,19 @@
     "description": "This recipes pay homage to traditional Breadwine infusions popular during the golden age of Russian distillation.",
     "products": [
       {
-        "alias": "cherry",
+        "alias": "2015",
+        "name": "Wheat",
+        "type": "product",
+        "images": [
+          {
+            "img": "/static/images/bottles/700_Cherry.png",
+            "img2x": "/static/images/bottles/700_Cherry@2x.png"
+          }
+        ],
+        "is_new": true
+      },
+      {
+        "alias": "2014",
         "name": "Cherry",
         "type": "product",
         "images": [

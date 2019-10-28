@@ -3211,9 +3211,9 @@ webpackJsonp(
                             {
                               attrs: {
                                 to: {
-                                  name: i ? "collections" : "product",
-                                  params: i ? null : { alias: e.alias },
-                                  query: i
+                                  name: i ? "product" : "product",
+                                  params: i ? { alias: e.alias } : { alias: e.alias },
+                                  query: 0
                                     ? { collection: e.collection_alias }
                                     : null
                                 },
