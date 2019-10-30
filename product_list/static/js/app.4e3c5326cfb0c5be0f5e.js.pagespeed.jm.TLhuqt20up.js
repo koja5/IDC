@@ -12,7 +12,7 @@ webpackJsonp(
     AAKx: function(t, e) {},
     AGeK: function(t, e) {},
     B8ah: function(t, e, i) {
-      // t.exports = i.p + "static/img/logo-text.b84db7d.svg";
+      t.exports = i.p + "static/img/logo-text.b84db7d.svg";
     },
     ChuL: function(t, e) {},
     DeFu: function(t, e) {},
@@ -270,7 +270,7 @@ webpackJsonp(
               localStorage.setItem("adult", "true"), (this.adult = !0);
             },
             setDocumentTitle: function(t) {
-              document.title = t ? t + " – Firerock wines" : "Firerock wines";
+              document.title = t ? t + " – Polugar" : "Polugar";
             },
             getScrollBarWidth: function() {
               var t = document.createElement("div");
@@ -981,13 +981,13 @@ webpackJsonp(
                   s("img", {
                     ref: "logo",
                     staticClass: "logo",
-                    attrs: { src: i("qz/U"), alt: "Firerock wines" },
+                    attrs: { src: i("qz/U"), alt: "Polugar" },
                     on: {
                       click: function(e) {
                         t.scrollTop();
                       }
                     }
-                  })/*,
+                  }),
                   t._v(" "),
                   "home" !== t.$route.name
                     ? s("img", {
@@ -1007,7 +1007,7 @@ webpackJsonp(
                         }
                       })
                     : t._e(),
-                  t._v(" ")*//*,
+                  t._v(" "),
                   "home" === t.$route.name
                     ? s("img", {
                         class: [
@@ -1016,7 +1016,7 @@ webpackJsonp(
                         ],
                         attrs: { src: i("ZL5T"), alt: "Rodionov & Sons" }
                       })
-                    : t._e()*/
+                    : t._e()
                 ]
               ),
               t._v(" "),
@@ -1427,7 +1427,7 @@ webpackJsonp(
                                 }
                               }
                             },
-                            [t._v("Get in Touch")]
+                            [t._v("Contacts")]
                           )
                         ],
                         1
@@ -1446,7 +1446,7 @@ webpackJsonp(
                               staticClass: "menu__items-link",
                               attrs: { to: { name: "history" } }
                             },
-                            [t._v("All about wine")]
+                            [t._v("History")]
                           )
                         ],
                         1
@@ -1488,25 +1488,6 @@ webpackJsonp(
                           )
                         ],
                         1
-                      ),
-                      t._v(" "),
-                      i(
-                        "li",
-                        { staticClass: "menu__items menu__items-map-mobile" },
-                        [
-                          i(
-                            "router-link",
-                            {
-                              directives: [
-                                { name: "split", rawName: "v-split" }
-                              ],
-                              staticClass: "menu__items-link",
-                              attrs: { to: { name: "100points" } }
-                            },
-                            [t._v("100 points wines")]
-                          )
-                        ],
-                        1
                       )
                     ]),
                     t._v(" "),
@@ -1533,60 +1514,7 @@ webpackJsonp(
                                 }
                               }
                             },
-                            [t._v("Firerock Wines")]
-                          ),
-                          t._v(" "),
-                          i(
-                            "ul",
-                            { staticClass: "menu__sub-list" },
-                            t._l(t.$store.collections, function(e, s) {
-                              return i(
-                                "li",
-                                { key: s, staticClass: "menu__sub-items" },
-                                [
-                                  i("router-link", {
-                                    directives: [
-                                      { name: "split", rawName: "v-split" }
-                                    ],
-                                    attrs: {
-                                      to: {
-                                        name: "collections",
-                                        query: { collection: e.alias }
-                                      }
-                                    },
-                                    domProps: { textContent: t._s(e.name) }
-                                  })
-                                ],
-                                1
-                              );
-                            })
-                          )
-                        ],
-                        1
-                      ),
-                      i(
-                        "li",
-                        { staticClass: "menu__items" },
-                        [
-                          i(
-                            "router-link",
-                            {
-                              directives: [
-                                { name: "split", rawName: "v-split" }
-                              ],
-                              staticClass: "menu__items-link",
-                              attrs: {
-                                to: {
-                                  name: "collections",
-                                  query: {
-                                    collection: t.$store.collections.length
-                                      ? t.$store.collections[0].alias
-                                      : void 0
-                                  }
-                                }
-                              }
-                            },
-                            [t._v("Firerock Friends")]
+                            [t._v("Collections")]
                           ),
                           t._v(" "),
                           i(
@@ -1640,7 +1568,7 @@ webpackJsonp(
                                 }
                               }
                             },
-                            [t._v("Get Inspired")]
+                            [t._v("Inspirations")]
                           )
                         ],
                         1
@@ -1669,14 +1597,6 @@ webpackJsonp(
                         attrs: { to: { name: "wheretobuy" } }
                       },
                       [t._v("Where to buy")]
-                    ),
-                    i(
-                      "router-link",
-                      {
-                        directives: [{ name: "split", rawName: "v-split" }],
-                        attrs: { to: { name: "100point" } }
-                      },
-                      [t._v("100 points wines")]
                     )
                   ],
                   1
@@ -1719,12 +1639,12 @@ webpackJsonp(
                       }
                     ],
                     staticClass: "button-where-buy__text wave-animation-text",
-                    attrs: { to: { name: "contacts/contacts=boris-rodionov" } }
+                    attrs: { to: { name: "wheretobuy" } }
                   },
-                  [t._v("Contact")]
+                  [t._v("Where to buy")]
                 ),
                 t._v(" "),
-                i("router-link", { attrs: { to: { name: "contacts/contacts=boris-rodionov" } } }, [
+                i("router-link", { attrs: { to: { name: "wheretobuy" } } }, [
                   i(
                     "svg",
                     {
@@ -3192,10 +3112,10 @@ webpackJsonp(
                       on: { click: t.onScrollDown }
                     },
                     [
-                      s("span", [t._v("Vintages")]),
+                      s("span", [t._v("Our spirits")]),
                       t._v(" "),
                       s("div", { staticClass: "scroll-button__circle" })
-                    ],
+                    ]
                   ),
                   t._v(" "),
                   s("pattern-svg", {
@@ -3226,168 +3146,6 @@ webpackJsonp(
                 },
                 [
                   s(
-                  "ul",
-                  { ref: "bottlesElement", staticClass: "bottles" },
-                  [
-                    t._v(" "),
-                    s(
-                      "li",
-                      { key: i },
-                      [
-                        s(
-                          "router-link",
-                          {
-                            attrs: {
-                              to: {
-                                name: i ? "product" : "product",
-                                params: i ? { alias: "2017" } : { alias: "2017" },
-                                query: 0
-                                  ? { collection: e.collection_alias }
-                                  : null
-                              },
-                              "aria-label": "Saya"
-                            }
-                          },
-                          [
-                            s(
-                              "svg",
-                              {
-                                directives: [
-                                  {
-                                    name: "show",
-                                    rawName: "v-show",
-                                    value: e.isNew,
-                                    expression: "bottle.isNew"
-                                  }
-                                ],
-                                staticClass: "bottles__new-product-sticker",
-                                style: {
-                                  opacity: (2 === t.activeSlide && "1") || ""
-                                },
-                                attrs: {
-                                  xmlns: "http://www.w3.org/2000/svg",
-                                  width: "82",
-                                  height: "82",
-                                  viewBox: "0 0 82 82"
-                                }
-                              },
-                              [
-                                s(
-                                  "g",
-                                  {
-                                    attrs: {
-                                      fill: "none",
-                                      "fill-rule": "evenodd",
-                                      transform: "rotate(-7 45.002 35.574)"
-                                    }
-                                  },
-                                  [
-                                    s("circle", {
-                                      attrs: {
-                                        cx: "40",
-                                        cy: "40",
-                                        r: "40",
-                                        stroke: "#D09046"
-                                      }
-                                    }),
-                                    t._v(" "),
-                                    s("circle", {
-                                      attrs: {
-                                        cx: "40",
-                                        cy: "40",
-                                        r: "37",
-                                        stroke: "#D09046"
-                                      }
-                                    }),
-                                    t._v(" "),
-                                    s(
-                                      "text",
-                                      {
-                                        attrs: {
-                                          fill: "#D09046",
-                                          "font-family":
-                                            "ModestoText-Medium, Modesto Text",
-                                          "font-size": "12",
-                                          "font-weight": "400",
-                                          textLength: "42",
-                                          "letter-spacing": "7.714"
-                                        }
-                                      },
-                                      [
-                                        s(
-                                          "tspan",
-                                          { attrs: { x: "19.403", y: "45" } },
-                                          [t._v("NEW")]
-                                        )
-                                      ]
-                                    ),
-                                    t._v(" "),
-                                    s("circle", {
-                                      attrs: {
-                                        cx: "39.485",
-                                        cy: "14.744",
-                                        r: "1.5",
-                                        fill: "#D09046"
-                                      }
-                                    }),
-                                    t._v(" "),
-                                    s("circle", {
-                                      attrs: {
-                                        cx: "39.485",
-                                        cy: "63.744",
-                                        r: "1.5",
-                                        fill: "#D09046"
-                                      }
-                                    })
-                                  ]
-                                )
-                              ]
-                            ),
-                            t._v(" "),
-                            t.$store.adult || 1 === i
-                              ? s("img", {
-                                  class: [
-                                    "bottle-" + e.volume,
-                                    "collection-bottle",
-                                    "bottle-visible"
-                                  ],
-                                  attrs: {
-                                    srcset: "/static/images/bottles/700_Cherry_large.png" + " 2x",
-                                    src:
-                                      1 !== i || t.$store.isMobile()
-                                        ? "/static/images/bottles/700_Cherry_large.png"
-                                        : "/static/images/bottles/700_Cherry_large.png",
-                                    alt: "Saya"
-                                  }
-                                })
-                              : t._e(),
-                            t._v(" "),
-                            s("p", {
-                              directives: [
-                                { name: "split", rawName: "v-split" }
-                              ],
-                              staticClass: "bottles__collection-name",
-                              domProps: {
-                                textContent: t._s(
-                                  e.isNew ? "New" : e.collection
-                                )
-                              }
-                            }),
-                            t._v(" "),
-                            s("p", {
-                              staticClass: "bottles__name",
-                              domProps: {
-                                textContent: t._s("Saya" || "&nbsp;")
-                              }
-                            })
-                          ]
-                        )
-                      ],
-                      1
-                    )]
-                ),
-                t._v(" "),
-                  s(
                     "ul",
                     { ref: "bottlesElement", staticClass: "bottles" },
                     t._l(t.landingData.bottles, function(e, i) {
@@ -3400,9 +3158,9 @@ webpackJsonp(
                             {
                               attrs: {
                                 to: {
-                                  name: i ? "product" : "product",
-                                  params: i ? { alias: e.alias } : { alias: e.alias },
-                                  query: 0
+                                  name: i ? "collections" : "product",
+                                  params: i ? null : { alias: e.alias },
+                                  query: i
                                     ? { collection: e.collection_alias }
                                     : null
                                 },
@@ -3756,14 +3514,14 @@ webpackJsonp(
                                 }),
                                 t._v(" "),
                                 t.$store.inspirations[0]
-                                  ? s("h3", {
+                                  ? s("p", {
                                       directives: [
                                         { name: "split", rawName: "v-split" }
                                       ],
                                       staticClass: "additional-links__text",
                                       domProps: {
                                         textContent: t._s(
-                                          "Get Inspired"
+                                          "Cocktails inspiration"
                                         )
                                       }
                                     })
@@ -3793,7 +3551,7 @@ webpackJsonp(
                         s(
                           "p",
                           { staticClass: "additional-links__contacts-text" },
-                          [t._v("Get in touch:")]
+                          [t._v("Write to us if you have any questions:")]
                         ),
                         t._v(" "),
                         s("avatars", {
@@ -3830,7 +3588,7 @@ webpackJsonp(
                                 ],
                                 staticClass: "additional-links__text"
                               },
-                              [t._v("ALL ABOUT WINE")]
+                              [t._v("BRAND HISTORY")]
                             )
                           ]
                         )
@@ -3891,9 +3649,9 @@ webpackJsonp(
               e = t.$createElement,
               i = t._self._c || e;
             return i("h2", { staticClass: "landing-headline" }, [
-              t._v("\n      The first Myanmar owned wine\n      "),
-              i("span", [t._v("label made in the beautiful village")]),
-              t._v(" of Bages in Pauillac, Bordeuax\n    ")
+              t._v("\n      First legal\n      "),
+              i("span", [t._v("pot-still")]),
+              t._v(" distillery of breadwine\n    ")
             ]);
           }
         ],
@@ -4593,7 +4351,7 @@ webpackJsonp(
                                       "g",
                                       {
                                         attrs: {
-                                          fill: "#5E2129",
+                                          fill: "#140C07",
                                           "fill-rule": "evenodd"
                                         }
                                       },
@@ -5107,7 +4865,7 @@ webpackJsonp(
                                     "g",
                                     {
                                       attrs: {
-                                        fill: "#5E2129",
+                                        fill: "#140C07",
                                         "fill-rule": "evenodd"
                                       }
                                     },
@@ -5958,7 +5716,7 @@ webpackJsonp(
                                           "g",
                                           {
                                             attrs: {
-                                              fill: "#5E2129",
+                                              fill: "#140C07",
                                               "fill-rule": "evenodd"
                                             }
                                           },
@@ -5995,7 +5753,7 @@ webpackJsonp(
                                   category: e.data.name.toLowerCase(),
                                   key: "product",
                                   value: t.activeProduct.name
-                                    ? "Firerock wines " + t.activeProduct.name
+                                    ? "Polugar " + t.activeProduct.name
                                     : void 0
                                 }
                               }
@@ -6125,7 +5883,7 @@ webpackJsonp(
                         i(
                           "g",
                           {
-                            attrs: { fill: "#5E2129", "fill-rule": "evenodd" }
+                            attrs: { fill: "#140C07", "fill-rule": "evenodd" }
                           },
                           [
                             i("path", {
@@ -7256,7 +7014,7 @@ webpackJsonp(
                 });
               return ii()({}, e, {
                 type: "product-banner",
-                text: "Explore Firerock wines apperance, taste, and flavor",
+                text: "Explore Polugar apperance, taste, and flavor",
                 footer_text: "in details"
               });
             },
@@ -7433,7 +7191,7 @@ webpackJsonp(
                                         staticClass: "component",
                                         domProps: {
                                           textContent: t._s(
-                                            "Firerock wines " + e.data.product_name
+                                            "Polugar " + e.data.product_name
                                           )
                                         }
                                       })
@@ -7696,7 +7454,7 @@ webpackJsonp(
                   e.overflowSlide = 2 === t;
                 }, 1e3),
                 (document.body.style.backgroundColor =
-                  1 === t ? "#5E2129" : "#f8f4f0"),
+                  1 === t ? "#140c07" : "#f8f4f0"),
                 W.$emit("hideLogoText", 1 !== t),
                 W.$emit("getActiveSlide", t);
             }
@@ -7829,7 +7587,7 @@ webpackJsonp(
             {
               staticClass: "history",
               style: {
-                "background-color": 1 === t.activeSlide ? "#5E2129" : "#f8f4f0"
+                "background-color": 1 === t.activeSlide ? "#140c07" : "#f8f4f0"
               },
               attrs: { role: "main" }
             },
@@ -8173,7 +7931,7 @@ webpackJsonp(
                         t._v(" "),
                         i("span", { staticClass: "block-dates-line" }),
                         t._v(
-                          "\n        It was then in 1895, when the Tsar introduced a state monopoly, that the production of Firerock wines was completely forbidden and all the traditional distilleries with their copper pot stills were destroyed.\n      "
+                          "\n        It was then in 1895, when the Tsar introduced a state monopoly, that the production of Polugar was completely forbidden and all the traditional distilleries with their copper pot stills were destroyed.\n      "
                         )
                       ])
                     ]
@@ -8302,7 +8060,7 @@ webpackJsonp(
                 t._v(
                   "\n          The vodka was made from grain and distilled in copper pot stills, rather like single malt whisky, and was called Breadwine or\n          "
                 ),
-                s("i", [t._v("Firerock wines")]),
+                s("i", [t._v("Polugar")]),
                 t._v(".\n        ")
               ])
             ]);
@@ -8324,7 +8082,7 @@ webpackJsonp(
               i = t._self._c || e;
             return i("div", { staticClass: "block-wrapper" }, [
               i("p", { staticClass: "block-something-big-text" }, [
-                t._v("The word Firerock wines actually means half-burned in Russian.")
+                t._v("The word Polugar actually means half-burned in Russian.")
               ]),
               t._v(" "),
               i("p", { staticClass: "block-something-text" }, [
@@ -8368,7 +8126,7 @@ webpackJsonp(
               t._v(" "),
               i("br"),
               t._v(
-                "The Rodionov family are now spearheading a movement to restore the former glory of traditional grain distillates, Firerock wines, so enjoyed during the golden age of Russian history\n      "
+                "The Rodionov family are now spearheading a movement to restore the former glory of traditional grain distillates, Polugar, so enjoyed during the golden age of Russian history\n      "
               )
             ]);
           },
@@ -9138,7 +8896,7 @@ webpackJsonp(
                                 "g",
                                 {
                                   attrs: {
-                                    fill: "#5E2129",
+                                    fill: "#140C07",
                                     "fill-rule": "evenodd"
                                   }
                                 },
@@ -9601,7 +9359,7 @@ webpackJsonp(
               component: Is,
               meta: {
                 banner: !0,
-                docTitle: "Get Inspired",
+                docTitle: "Inspirations",
                 filter: !0,
                 title: "Explore all",
                 text: "cocktails",
@@ -9630,7 +9388,7 @@ webpackJsonp(
                 banner: !0,
                 docTitle: "History",
                 text: "Our history",
-                title: "Firerock wines revival",
+                title: "Polugar revival",
                 pinkTheme: !0,
                 images: [
                   {
@@ -10009,7 +9767,7 @@ webpackJsonp(
     },
     YP30: function(t, e) {},
     ZL5T: function(t, e, i) {
-      // t.exports = i.p + "static/img/logo-text-landing.ba9d0d1.svg";
+      t.exports = i.p + "static/img/logo-text-landing.ba9d0d1.svg";
     },
     c1NI: function(t, e) {},
     gzFK: function(t, e) {},
@@ -10645,7 +10403,7 @@ webpackJsonp(
       t.exports = i.p + "static/img/place.18487df.svg";
     },
     "qz/U": function(t, e, i) {
-      t.exports = i.p + "static/img/firerock.svg";
+      t.exports = i.p + "static/img/logo.501d519.svg";
     },
     sx7o: function(t, e) {},
     "vU/C": function(t, e, i) {
